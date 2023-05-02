@@ -2,7 +2,7 @@
 
 <div style="width: 100%; max-width: 800px; margin: 0 auto; overflow: hidden;">
   <div style="border-radius: 10px; overflow: hidden;">
-    <img src="https://images.squarespace-cdn.com/content/v1/5a765cd0ccc5c54fa0c74ef8/1579553252229-PH9NP79XLUG6KEJ5KWTN/HR-wide-gif.gif?format=2500w" alt="animated GIF" style="width: 100%; height: auto;">
+    <img src="https://64.media.tumblr.com/7fec4b22d5a83d1bdeb1aa534e3e913c/tumblr_ofgpgge72U1r4gsiio1_1280.gif" alt="animated GIF">
   </div>
 </div>
 
