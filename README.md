@@ -1,5 +1,10 @@
 <h1 align="center">Hi <span style="animation: wave 1s ease-in-out infinite;">&#x1F44B;</span>, I'm Shamry Shiraz</h1>
 
+<div style="position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 10px;">
+  <img src="https://thumbs.gfycat.com/BothRegalClam-max-1mb.gif" alt="animated GIF" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+</div>
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SHM) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ShamryShiraz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kid_shm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShamryShiraz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShamryShiraz)
 
