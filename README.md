@@ -2,7 +2,7 @@
 
 <div style="width: 100%; max-width: 800px; margin: 0 auto; overflow: hidden;">
   <div 10px; overflow: hidden;">
-    <img src="https://64.media.tumblr.com/7fec4b22d5a83d1bdeb1aa534e3e913c/tumblr_ofgpgge72U1r4gsiio1_1280.gif" alt="animated GIF" style="border-radius:>
+    <img src="https://64.media.tumblr.com/7fec4b22d5a83d1bdeb1aa534e3e913c/tumblr_ofgpgge72U1r4gsiio1_1280.gif" alt="animated GIF" style="border-radius:25px">
   </div>
 </div>
 
