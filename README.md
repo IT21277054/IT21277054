@@ -1,9 +1,8 @@
 <h1 align="center">Hi <span style="animation: wave 1s ease-in-out infinite;">&#x1F44B;</span>, I'm Shamry Shiraz</h1>
 
 <img src="https://64.media.tumblr.com/7fec4b22d5a83d1bdeb1aa534e3e913c/tumblr_ofgpgge72U1r4gsiio1_1280.gif" alt="animated GIF">
-<h1 align="center">Hi 👋, I'm Shamry Shiraz</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21277054&label=Profile%20views&color=0e75b6&style=flat" alt="it21277054" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=it21277054&label=Profile%20views&color=0e75b6&style=flat" alt="it21277054" /> </p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SHM) 
