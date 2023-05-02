@@ -19,10 +19,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=IT21277054&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IT21277054&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IT21277054&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<center>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IT21277054&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-</center>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
