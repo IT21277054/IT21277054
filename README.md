@@ -33,10 +33,6 @@
 [![](https://visitcount.itsvg.in/api?id=IT21277054&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21277054&show_icons=true&locale=en" alt="it21277054" /></p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Snake animation](https://github.com/IT21277054/IT21277054/blob/output/github-contribution-grid-snake.svg)
 
