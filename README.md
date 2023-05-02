@@ -1,7 +1,7 @@
 <h1 align="center">Hi <span style="animation: wave 1s ease-in-out infinite;">&#x1F44B;</span>, I'm Shamry Shiraz</h1>
 
-<div style="width: 100%; max-width: 800px; margin: 0 auto; overflow: hidden;">
-    <img src="https://64.media.tumblr.com/7fec4b22d5a83d1bdeb1aa534e3e913c/tumblr_ofgpgge72U1r4gsiio1_1280.gif" alt="animated GIF" style="border-radius:25px">
+<div style="width: 100%; max-width: 800px; margin: 0 auto; overflow: hidden; border-radius:25px">
+    <img src="https://64.media.tumblr.com/7fec4b22d5a83d1bdeb1aa534e3e913c/tumblr_ofgpgge72U1r4gsiio1_1280.gif" alt="animated GIF">
 </div>
 
 
