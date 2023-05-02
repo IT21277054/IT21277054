@@ -1,7 +1,9 @@
 <h1 align="center">Hi <span style="animation: wave 1s ease-in-out infinite;">&#x1F44B;</span>, I'm Shamry Shiraz</h1>
 
-<div style="width: 100%; max-width: 800px; margin: 0 auto; overflow: hidden;  border-radius: 50px;">
-  <img src="https://images.squarespace-cdn.com/content/v1/5a765cd0ccc5c54fa0c74ef8/1579553252229-PH9NP79XLUG6KEJ5KWTN/HR-wide-gif.gif?format=2500w" alt="animated GIF" style="width: 100%; height: auto;">
+<div style="width: 100%; max-width: 800px; margin: 0 auto; overflow: hidden;">
+  <div style="border-radius: 10px; overflow: hidden;">
+    <img src="https://images.squarespace-cdn.com/content/v1/5a765cd0ccc5c54fa0c74ef8/1579553252229-PH9NP79XLUG6KEJ5KWTN/HR-wide-gif.gif?format=2500w" alt="animated GIF" style="width: 100%; height: auto;">
+  </div>
 </div>
 
 
