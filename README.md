@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Shamry Shiraz</h1>
+<h1 align="center">Hi <span style="animation: wave 1s ease-in-out infinite;">&#x1F44B;</span>, I'm Shamry Shiraz</h1>
+
+<style>
+@keyframes wave {
+  0% { transform: rotate(0deg); }
+  20% { transform: rotate(20deg); }
+  40% { transform: rotate(-10deg); }
+  60% { transform: rotate(15deg); }
+  80% { transform: rotate(-5deg); }
+  100% { transform: rotate(0deg); }
+}
+</style>
 
 
 ## 🌐 Socials:
